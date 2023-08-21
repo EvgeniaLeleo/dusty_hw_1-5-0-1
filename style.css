@@ -1,9 +1,9 @@
 .page {
-  margin: 0;
-  padding: 0 60px;
-
   font-family: Helvetica, sans-serif;
   text-align: center;
+
+  margin: 0;
+  padding: 0 60px;
 }
 
 .statistics {
